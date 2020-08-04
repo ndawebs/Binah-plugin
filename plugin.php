@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name:	Zhero plugin
-Plugin URI:		https://example.com
-Description:	Brithe Oxygen Template.
-Version:		1.0.0
+Plugin URI:		https://ndawebs.com.ar
+Description:	Bridge between template and Oxygen Builder.
+Version:		1.0.1
 Author:			Martin Oviedo
-Author URI:		https://example.com
+Author URI:		https://ndawebs.com.ar
 License:		GPL-2.0+
 License URI:	http://www.gnu.org/licenses/gpl-2.0.txt
 
