@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name:	Zhero plugin
+Plugin Name:	Binah² the Zhero² plugin Bridge
 Plugin URI:		https://ndawebs.com.ar
 Description:	Bridge between template and Oxygen Builder.
 Version:		1.0.1
